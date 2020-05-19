@@ -1,0 +1,26 @@
+Huanghekou
+0
+2002-13-19 15:38
+766
+2
+018
+microWatts/nm/m^2/str
+12.99
+137.88
+23:51:10
+23:51
+1 of 5
+E349
+2012-06-01
+0635
+0 = useful pixels;1 = Ch2 reset pixels;2 = Saturated data pixels
+037.75
+CHRIS
+0119.13
+Surrey Satellite Technology Ltd is the owner of all data directly resulting from in-flight operation of the CHRIS instrument flown on-board the ESA PROBA spacecraft.  All publications on the CHRIS instrument or data obtained from the CHRIS development and/or operation shall make explicit reference to Surrey Satellite Technology Ltd the CHRIS instrument and the ESA PROBA mission.
+0748
+2004-13-18 10:56
+00050
+013
+055.00
+009.60
